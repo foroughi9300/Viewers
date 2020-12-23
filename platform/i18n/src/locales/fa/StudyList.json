@@ -1,0 +1,10 @@
+{
+    "AccessionNumber": "شماره پذیرش",
+    "Empty": "خالی",
+    "MRN": "شماره مدرک پزشکی",
+    "Modality": "مودالیتی",
+    "PatientName": "نام بیمار",
+    "StudyDate": "تاریخ تصویر",
+    "StudyDescription": "توضیحات",
+    "StudyList": "لیست تصاویر"
+}

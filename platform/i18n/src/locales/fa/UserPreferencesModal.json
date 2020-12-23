@@ -1,0 +1,9 @@
+{
+    "Cancel": "$t(Buttons:لغو)",
+    "No hotkeys found": "کلید میانبر تعریف نشده است.",
+    "Reset to Defaults": "$t(Buttons:بازنشانی به پیش فرض ها)",
+    "ResetDefaultMessage": "تنظیمات به پیش فرض بازگشت. لطفا ذخیره کنید.",
+    "Save": "$t(Buttons:ذخیره)",
+    "SaveMessage": "تنظیمات ذخیره شد",
+    "User Preferences": "تنظیمات کاربر"
+}

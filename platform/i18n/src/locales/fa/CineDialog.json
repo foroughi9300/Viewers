@@ -1,0 +1,8 @@
+{
+    "Next image": "$t(Common:تصویر) $t(Common:بعدی)",
+    "Play / Stop": "$t(Common:پخش) / $t(Common:توقف)",
+    "Previous image": "$t(Common:تصویر) $t(Common:قبلی)",
+    "Skip to first image": "پرش به اولین $t(Common:تصویر)",
+    "Skip to last image": "پرش به آخرین $t(Common:تصویر)",
+    "fps": "فریم بر ثانیه"
+}
