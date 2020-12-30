@@ -6,5 +6,6 @@
     "PatientName": "نام بیمار",
     "StudyDate": "تاریخ تصویر",
     "StudyDescription": "توضیحات",
-    "StudyList": "لیست تصاویر"
+    "StudyList": "لیست تصاویر ",
+    "Description": "توضیحات"
 }
